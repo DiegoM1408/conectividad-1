@@ -61,7 +61,7 @@
           ini_set('display_errors', 1);
 
           // Datos de conexión
-          $servername = "localhost";  // Seleccionar servidor
+          $servername = "";  // Seleccionar servidor
           $username = "root";
           $password = "";
           $database = "antena"; // Seleccionar base de datos
